@@ -1,5 +1,7 @@
 package lectures.part1basics
 
-object Functions {
+object Functions extends App {
+
+
 
 }
